@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html ng-app>
+<head>
+  <meta content="text/html;charset=utf-8">
+  <script src="http://web.ischool.com.tw/devlibrary/gadget.js"></script>
+  <script>
+  init({
+      application: "dev.sh_d", //"h.trialschool.tw", //"http://test.iteacher.tw/cs4/test_sh_d_chhs", //"dev.jh_kh",
+      paramValues: {}
+    });
+  </script>
+  <link href="css/bootstrap.css" rel="stylesheet" />
+  <link href="css/bootstrap-responsive.css" rel="stylesheet" />
+  <!--<link href="css/base.less" rel="stylesheet/less" />
+  <link href="css/default.less" rel="stylesheet/less" />-->
+  <link href="css/base.css" rel="stylesheet" />
+  <!--<link href="css/default.css" rel="stylesheet" />-->
+  <script src="js/angular.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <!--<script src="js/less.min.js"></script>-->
+  <script src="js/bootstrap.js"></script>
+  <script src="js/default.js"></script>
+</head>
+<body>
+  <div id="gadget" ng-controller="gadget_scope">
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span12">
+          <div id="mainMsg"><div class='alert alert-error'> <button class='close' data-dismiss='alert'>×</button><strong>{{errmsg}}</strong></div></div>
+        </div>
+      </div>
+      <div class="row-fluid">
+        <div class="span12" id="container-main"></div>
+      </div>
+      <input ng-model="keyin"/>
+      <input type="button" ng-click="init()" value="click"></input>
+    </div>
+  </div>
+</body>
+</html>
