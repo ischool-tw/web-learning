@@ -1,0 +1,10 @@
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\7f34c7f9-3f0e-4350-8787-570366c7ea50\bin\7f34c7f9-3f0e-4350-8787-570366c7ea50.dll
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\7f34c7f9-3f0e-4350-8787-570366c7ea50\bin\7f34c7f9-3f0e-4350-8787-570366c7ea50.pdb
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\7f34c7f9-3f0e-4350-8787-570366c7ea50\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\7f34c7f9-3f0e-4350-8787-570366c7ea50\obj\Debug\7f34c7f9-3f0e-4350-8787-570366c7ea50.dll
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\7f34c7f9-3f0e-4350-8787-570366c7ea50\obj\Debug\7f34c7f9-3f0e-4350-8787-570366c7ea50.pdb
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\001取得學年度學期\bin\7f34c7f9-3f0e-4350-8787-570366c7ea50.dll
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\001取得學年度學期\bin\7f34c7f9-3f0e-4350-8787-570366c7ea50.pdb
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\001取得學年度學期\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\001取得學年度學期\obj\Debug\7f34c7f9-3f0e-4350-8787-570366c7ea50.dll
+C:\TFS2010-Git(WEB)\coregadget-Dylan(VS)\001取得學年度學期\obj\Debug\7f34c7f9-3f0e-4350-8787-570366c7ea50.pdb
